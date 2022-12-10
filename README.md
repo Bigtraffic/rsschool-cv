@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Bigtraffic.github.io/rsschool-cv/cv
