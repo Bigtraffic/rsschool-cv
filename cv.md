@@ -24,3 +24,30 @@ In mid 2021 i decided to deepen my knowledge in L&D and got a remote job in L&D 
 - Git, GitHub
 - VS Code
 - Excel
+
+## Code example:
+
+CodeWars registration task: This code does not execute properly. Try to figure out why.
+
+```
+function multiply(a, b){
+    return a * b
+}
+```
+
+## Educational background:
+
+- **Nizhny Novgorod State University:**
+  Bachelor in International Relations
+
+- **Nizhny Novgorod State University:**
+  Translator in the field of professional communication (English)
+
+- **Stepik:** [Web Development for Beginners: HTML and CSS](https://stepik.org/course/38218/syllabus) - not finished
+
+## Languages:
+
+- Russian - Native
+- English - C1 Advanced
+  - Certificates: [EF SET](https://efset.org/cert/Pn1foV), FCE
+- Chinese - Basic University Course
