@@ -34,3 +34,19 @@ function multiply(a, b){
     return a * b
 }
 ```
+## Educational background:
+
+- **Nizhny Novgorod State University:**
+  Bachelor in International Relations
+
+- **Nizhny Novgorod State University:**
+  Translator in the field of professional communication (English)
+
+- **Stepik:** [Web Development for Beginners: HTML and CSS](https://stepik.org/course/38218/syllabus) - not finished
+
+## Languages:
+
+- Russian - Native
+- English - C1 Advanced
+  - Certificates: [EF SET](https://efset.org/cert/Pn1foV), FCE
+- Chinese - Basic University Course
